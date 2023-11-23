@@ -16,3 +16,16 @@
 [submodule "Ega Prabu Pamungkas"]
 	path = Ega Prabu Pamungkas
 	url = https://github.com/feratyusa/tugas-ppb.git
+[submodule "Hansen Idden"]
+	path = Hansen Idden
+	url = https://github.com/hansenidden18/ppb
+[submodule "Muh Nur Fajrin Amiruddin"]
+	path = Muh Nur Fajrin Amiruddin
+	url = https://github.com/fajrinam/mobile-programming
+[submodule "Aji Wahyu Admaja Utama"]
+	path = Aji Wahyu Admaja Utama
+	url = https://github.com/wahyua26/mobile-programming-projects
+[submodule "Luthfiyyah Hanifah Amari"]
+	path = Luthfiyyah Hanifah Amari
+	url = https://github.com/luthfiyyah-a/inputDialog_mobileApp.git
+
