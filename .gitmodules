@@ -28,4 +28,6 @@
 [submodule "Luthfiyyah Hanifah Amari"]
 	path = Luthfiyyah Hanifah Amari
 	url = https://github.com/luthfiyyah-a/inputDialog_mobileApp.git
-
+[submodule "Rizqi Rifaldi"]
+	path = Rizqi Rifaldi
+	url = https://github.com/Oblivion45/mobile-programming
