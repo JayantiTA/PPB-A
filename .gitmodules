@@ -18,22 +18,25 @@
 	url = https://github.com/feratyusa/tugas-ppb.git
 [submodule "Hansen Idden"]
 	path = Hansen Idden
-	url = https://github.com/hansenidden18/ppb
+	url = https://github.com/hansenidden18/ppb.git
 [submodule "Muh Nur Fajrin Amiruddin"]
 	path = Muh Nur Fajrin Amiruddin
-	url = https://github.com/fajrinam/mobile-programming
+	url = https://github.com/fajrinam/mobile-programming.git
 [submodule "Aji Wahyu Admaja Utama"]
 	path = Aji Wahyu Admaja Utama
-	url = https://github.com/wahyua26/mobile-programming-projects
+	url = https://github.com/wahyua26/mobile-programming-projects.git
 [submodule "Luthfiyyah Hanifah Amari"]
 	path = Luthfiyyah Hanifah Amari
 	url = https://github.com/luthfiyyah-a/inputDialog_mobileApp.git
 [submodule "Rizqi Rifaldi"]
 	path = Rizqi Rifaldi
-	url = https://github.com/Oblivion45/mobile-programming
+	url = https://github.com/Oblivion45/mobile-programming.git
 [submodule "Yusuf Anfasya"]
 	path = Yusuf Anfasya
-	url = https://github.com/YusufAnfasya/Android_Projects_ITS
+	url = https://github.com/YusufAnfasya/Android_Projects_ITS.git
 [submodule "Ingwer Ludwig Nommensen"]
 	path = Ingwer Ludwig Nommensen
-	url = https://github.com/ingwerludwig/PPB-Tugas
+	url = https://github.com/ingwerludwig/PPB-Tugas.git
+[submodule "Muhammad Afdal Abdallah"]
+	path = Muhammad Afdal Abdallah
+	url = https://github.com/afdalabdallah/tugas-PPB.git
